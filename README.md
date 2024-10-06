@@ -44,7 +44,7 @@
 - [/vt/](https://8chan.moe/vt/) Tablón nuevo! Dedicado al posteo de vtubers en general
 
 - [/hispol/](https://8chan.moe/hispol/) Tablon basado en /pol/ de Hispa. Aqui podras hablar de politica, idiologia y mas. ¡Tiene banderitas activado!
-
+- [latinochan](https://latinochan.zya.me) Mas que nada es proyecto que apuesta por la libertad de expresión, aunque no este ligado a hispachan podria ser su próxima casita del árbol.
 ## Reglas 
 
 - Al vivir abajo de otro chan tenemos que seguir sus reglas, estas reglas se conocen como _Reglas Globales_ esta se deben cumplir en los tablones hispanos y todos los demas.
